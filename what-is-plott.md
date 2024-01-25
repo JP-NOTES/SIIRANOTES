@@ -1,0 +1,1 @@
+Plott is a company in Japan as well as a style of YouTube videos. You can find a lot of these genre of videos by just typing Plottアニメ on youtube.

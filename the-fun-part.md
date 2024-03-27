@@ -39,7 +39,7 @@ Here are some examples of this: Q&A Stream/Video, Novels, Radio, Podcasts, IRL c
 This is a little bit harder than level 3. It includes the rest, non-structured content that has no additional contextual support. Basically this means completely spontaneous Japanese with no other information than the spoken language.
 
 Let's break that down:
-- This is structured content, so this means it is scripted or telling a specific story, the vast majority of the language in the content is not spontaneously spoken.
+- This is partially structured or unstructured content, so this means it is mostly spontaneous, but there might still be an overall direction to the content, like a list of things to do.
 - This is unsupported content, meaning there is no additional context beyond the actual language spoken or written.
 
 Here are some examples of this: VC Online, Free Chat Streams. (This category rarely appears in writing.)
